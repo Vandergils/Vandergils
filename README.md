@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Hybrid Development and Internet Security**
 
-- 📄 All of my projects are available at [https://sites.google.com/view/keizhaitxpro/home](https://sites.google.com/view/keizhaitxpro/home)
-
 - 📫 How to reach me **Keizhazhaa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
