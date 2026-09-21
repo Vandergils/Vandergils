@@ -8,4 +8,3 @@
 
 - 📫 How to reach me **Keizhazhaa@gmail.com**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vandergils&show_icons=true&locale=en&layout=compact" alt="vandergils" /></p>
