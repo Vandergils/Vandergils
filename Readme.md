@@ -13,7 +13,7 @@ blockchain, and financial markets.
 ## Technologies
 
 **Languages**\
-JavaScript · Kotlin · Java · C++ · Python · Luau · Solidity
+JavaScript · Kotlin · Java · C++ · Python · Luau · Solidity · PHP
 
 **Development**\
 HTML · CSS · React · Node.js · Tailwind CSS · Laravel
