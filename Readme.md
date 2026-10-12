@@ -19,7 +19,7 @@ JavaScript · Kotlin · Java · C++ · Python · Luau · Solidity · PHP
 HTML · CSS · React · Node.js · Tailwind CSS · Laravel
 
 **Database**\
-MySQL
+MySQL · PostgreSQL · MongoDB
 
 **Blockchain & Web3**\
 Smart Contracts · Blockchain Use Cases · Web3 Ecosystems
